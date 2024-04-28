@@ -1,0 +1,14 @@
+[
+  {
+    "title": "test",
+    "cover": "test",
+    "url": "test",
+    "rating": 1
+  },
+  {
+    "title": "string",
+    "cover": "string",
+    "url": "string",
+    "rating": 2
+  }
+]
